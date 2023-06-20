@@ -9,9 +9,6 @@ import Home from "./pages/Home";
 
 import "./styles.css";
 import "./styleGlobal.css";
-// import MovieDetail from "./pages/MovieDetail";
-// import Movie from "./pages/Movie";
-// import Tv from "./pages/Tv";
 
 export default function App() {
   return (
